@@ -1,4 +1,4 @@
-# VoltorbFlip
+# Voltorb Flip
 Pokemon Soulsilver: Voltorb Flip. An AI to maximize your coins in-game. Written using Flask, Javascript, React, and React-Bootstrap.
 
 SETUP: <br />
