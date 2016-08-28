@@ -1,0 +1,9 @@
+{
+  "name": "VoltorbFlip",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-bootstrap": "^0.30.3"
+  }
+}
